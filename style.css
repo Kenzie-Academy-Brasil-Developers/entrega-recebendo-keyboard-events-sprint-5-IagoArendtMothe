@@ -1,0 +1,11 @@
+#box { 
+    width: 100px; 
+    height: 100px;
+    position: absolute; 
+    /* background: gray; */
+    background-image: url("imgs/Gato-left.png");
+    background-size: cover;
+    background-position: center;
+    left: 200px; 
+    top: 200px; 
+}
